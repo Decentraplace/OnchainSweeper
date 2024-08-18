@@ -4,7 +4,7 @@
 
 # OnchainSweper by DecentraPlace Studios
 
-By ([X](https://x.com/dabusthebuilder)[X](https://x.com/decentrplace))
+By [@dabusthebuilder & @decentrplace] ([X](https://x.com/dabusthebuilder)[X](https://x.com/decentrplace))
 
 Boilerplate: An Onchain app in less than 100 components, and ready to be deployed to Vercel. (by - [@zizzamia](https://github.com/zizzamia.png) ([X](https://twitter.com/Zizzamia))
 )
